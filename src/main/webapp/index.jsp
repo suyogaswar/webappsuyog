@@ -52,8 +52,8 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Hello</h1>
-        <p>This is from dev branch. </p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
+        <p>This is from dev branch. <a href="#">Terms & Privacy</a> </p>
+        <p><a class="btn btn-primary btn-lg" role="button">Error more &raquo;</a></p>
     </div>
 </div>
 
