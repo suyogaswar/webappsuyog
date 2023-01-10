@@ -42,7 +42,7 @@
                 <div class="form-group">
                     <input type="password" placeholder="Password" class="form-control">
                 </div>
-                <button type="submit" class="btn btn-success">Sign in</button>
+                <button type="submit" class="btn btn-success">Sign in</button> ...
             </form>
         </div><!--/.navbar-collapse -->
     </div>
@@ -51,7 +51,7 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Hello</h1>
+        <h1>Hello Suyog</h1>
         <p>This is from dev branch. <a href="#">Terms & Privacy</a> </p>
         <p><a class="btn btn-primary btn-lg" role="button">Error more &raquo;</a></p>
     </div>
@@ -80,7 +80,7 @@
     <hr>
 
     <footer>
-        <p>&copy; Company 2014</p>
+        <p>&copy; Company 2023</p>
     </footer>
 </div> <!-- /container -->
 
