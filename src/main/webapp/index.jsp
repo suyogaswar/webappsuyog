@@ -53,7 +53,7 @@
     <div class="container">
         <h1>Hello Suyog </h1>
         <p>This is from dev branch. <a href="#">Terms & Privacy</a> </p>
-        <button type="submit" class="registerbtn">Register</button>
+        <button type="submit" class="registerbtn"> <a href="https://www.g2.com/products/sentry/competitors/alternatives"> Register </a></button>
          <!-- <p><a class="registrationbtn" role="button">Error more  <input type="submit"/> -->
 <title>Redirecting using Form Tags</title>
      </form>
