@@ -51,9 +51,10 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Hello Suyog😄</h1>
+        <h1>Hello Suyog </h1>
         <p>This is from dev branch. <a href="#">Terms & Privacy</a> </p>
         <p><a class="btn btn-primary btn-lg" role="button">Error more  <input type="submit"/>
+<title>Redirecting using Form Tags</title>
      </form>
     </body>
   </html> &raquo;</a></p>
