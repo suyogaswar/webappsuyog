@@ -14,6 +14,11 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+<dependency>
+    <groupId>io.sentry</groupId>
+    <artifactId>sentry</artifactId>
+    <version>6.11.0</version>
+</dependency>
   </dependencies>
   <build>
     <finalName>WebApp</finalName>
