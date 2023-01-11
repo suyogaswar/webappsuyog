@@ -21,6 +21,8 @@
     <![endif]-->
 </head>
 
+Sentry.init("https://1e81f497e125431f84f7a241d0361484@o1077880.ingest.sentry.io/4504478995841024")
+
 <body>
 
 <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
@@ -58,7 +60,7 @@
 <title>Redirecting using Form Tags</title>
      </form>
     </body>
-  </html> &raquo;</a></p>
+  </html> &raquo;</a></p> 
     </div>
 </div>
 
