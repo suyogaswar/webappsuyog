@@ -34,7 +34,14 @@ Sentry.init(options -> {
   // When first trying Sentry it's good to see what the SDK is doing:
   options.setDebug(true);
 });
+import java.lang.Exception;
+import io.sentry.Sentry;
 
+try {
+  throw new Exception("This is a test.");
+} catch (Exception e) {
+  Sentry.captureException(e);
+}
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
