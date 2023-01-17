@@ -24,6 +24,17 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
+import io.sentry.Sentry;
+
+Sentry.init(options -> {
+  options.setDsn("https://605714fc13794fa486c45e20b325fd8c@o1077880.ingest.sentry.io/4504518141083648");
+  // Set tracesSampleRate to 1.0 to capture 100% of transactions for performance monitoring.
+  // We recommend adjusting this value in production.
+  options.setTracesSampleRate(1.0);
+  // When first trying Sentry it's good to see what the SDK is doing:
+  options.setDebug(true);
+});
+
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
